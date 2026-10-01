@@ -1,0 +1,17 @@
+.env
+.env.*
+node_modules/
+backend/node_modules/
+backend/.env
+backend/.env.*
+.dart_tool/
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins*
+mobile/.packages
+build/
+*.log
+npm-debug.log*
+.vscode/
+.DS_Store
+Thumbs.db
